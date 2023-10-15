@@ -82,3 +82,4 @@ print(f"Total {total_votos}")
 
 # Apresenta o resultado
 print(f"O Sistema Operacional mais votado foi o {sistema_mais_votado}, com {votos_mais_votado} votos, correspondendo a {(votos_mais_votado / total_votos) * 100:.0f}% dos votos.")
+input("...")
